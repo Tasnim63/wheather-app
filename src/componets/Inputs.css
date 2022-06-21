@@ -1,0 +1,53 @@
+
+.input-field{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2;
+}
+
+.search-button{
+    padding:3px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.input-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2;
+}
+.city-input{
+    padding: 7px;
+    font-size: 15px;
+
+}
+.icon{
+    font-size: 20px;
+  margin-left: 25px;
+  margin-right: 10px;
+  color: rgb(79, 74, 74);
+  cursor: pointer;
+  
+
+}
+.temp-btn{
+    margin-left:  10px;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2;  
+    background-color: burlywood;
+    border: none;
+}
+
+.divider{
+    margin-left: 10px;
+    background-color: burlywood;
+   border: none;
+}
+
+
+
+

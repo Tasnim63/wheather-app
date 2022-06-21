@@ -1,0 +1,17 @@
+.search-area{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+} 
+.box{
+    width: 700px;
+    height: 1080px;
+    box-shadow: 8px 8px 8px 8px #888888 ;
+    background-color: burlywood;
+   border-radius: 20px;
+  
+  
+
+}

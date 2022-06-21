@@ -1,0 +1,36 @@
+.wea-condtion{
+    color: rgb(86, 81, 81);
+    font-size: 15px;
+}
+img{
+    height: 150px;
+    width: 100px;
+}
+.text{
+    font-size: 20px;
+    margin-left: 100px;
+}
+.weather-area{
+   
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+}
+.whether-detail{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.icons{
+   margin-top:20px;
+   font-size: 20px;
+
+}
+.hour-img{
+    height: 60px;
+    width: 60px;
+}
+.real-temp{
+   margin-left: 200px;
+}

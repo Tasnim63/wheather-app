@@ -1,0 +1,14 @@
+.top-city{
+    margin-top:  50px;
+     margin-bottom: 30px;
+     padding: 2px;
+}
+.city-button{
+    padding: 2px;
+    margin-left:40px;
+    font-family: serif;
+    color: rgb(79, 74, 74);
+    background-color: burlywood;
+    border: none;
+    font-size: 20px;
+}
